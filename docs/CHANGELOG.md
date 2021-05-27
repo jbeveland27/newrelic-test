@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/jbeveland27/newrelic-test/compare/v1.0.0...v1.0.1) (2021-05-27)
+
+
+### Bug Fixes
+
+* **release:** remove exec ([b766b7f](https://github.com/jbeveland27/newrelic-test/commit/b766b7f1e6e1433b8ec07b23ca415dfa72142dd3))
+
 # 1.0.0 (2021-05-27)
 
 
