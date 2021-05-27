@@ -172,7 +172,7 @@ jobs:
           node-version: 14
       
       - name: Add plugins for semantic release
-        run: npm install @semantic-release/git @semantic-release/changelog @semantic-release/exec
+        run: npm install @semantic-release/git @semantic-release/changelog
         # working-directory: ./.github/workflows
 
       # - name: Download Cached Deps
